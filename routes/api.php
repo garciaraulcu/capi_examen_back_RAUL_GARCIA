@@ -7,7 +7,7 @@ use App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
-| API Routes
+| API Routes api
 |--------------------------------------------------------------------------
 |
 | Here is where you can register API routes for your application. These
